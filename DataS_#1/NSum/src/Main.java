@@ -1,7 +1,14 @@
+import org.junit.jupiter.api.Test;
+
 import java.util.Scanner;
+
 public class Main {
 
     public static void main(String[] args) {
+        System.out.println(Main.N());
+    }
+
+    public static int N(){
 
         Scanner obj = new Scanner(System.in);
 
@@ -15,8 +22,7 @@ public class Main {
             cont+=n;
             n--;
         }
-
-        //Print result
-        System.out.println(cont);
+        return cont;
     }
+
 }
