@@ -7,7 +7,7 @@ public class Main {
             {"nc3","pants","70"},
             {"nc4","leggings","65"}};
 
-    static int op=2;
+    static int op;
     static char paymentType; //'r' for card, 's' for cash
     static String cancelCode;
 
