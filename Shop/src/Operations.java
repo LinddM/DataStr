@@ -48,6 +48,7 @@ public class Operations {
             }
         }
 
+        //Rearrange array
         while (oldCarti<oldCart.length){
             if(oldCart[oldCarti]!=null){
                 newCart[newCarti][0]=oldCart[oldCarti][0];
