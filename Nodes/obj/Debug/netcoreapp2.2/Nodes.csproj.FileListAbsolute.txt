@@ -1,0 +1,11 @@
+C:\Users\Lindsey\Desktop\S3\Estr\Nodes\bin\Debug\netcoreapp2.2\Nodes.deps.json
+C:\Users\Lindsey\Desktop\S3\Estr\Nodes\bin\Debug\netcoreapp2.2\Nodes.runtimeconfig.json
+C:\Users\Lindsey\Desktop\S3\Estr\Nodes\bin\Debug\netcoreapp2.2\Nodes.runtimeconfig.dev.json
+C:\Users\Lindsey\Desktop\S3\Estr\Nodes\bin\Debug\netcoreapp2.2\Nodes.dll
+C:\Users\Lindsey\Desktop\S3\Estr\Nodes\bin\Debug\netcoreapp2.2\Nodes.pdb
+C:\Users\Lindsey\Desktop\S3\Estr\Nodes\obj\Debug\netcoreapp2.2\Nodes.csprojAssemblyReference.cache
+C:\Users\Lindsey\Desktop\S3\Estr\Nodes\obj\Debug\netcoreapp2.2\Nodes.csproj.CoreCompileInputs.cache
+C:\Users\Lindsey\Desktop\S3\Estr\Nodes\obj\Debug\netcoreapp2.2\Nodes.AssemblyInfoInputs.cache
+C:\Users\Lindsey\Desktop\S3\Estr\Nodes\obj\Debug\netcoreapp2.2\Nodes.AssemblyInfo.cs
+C:\Users\Lindsey\Desktop\S3\Estr\Nodes\obj\Debug\netcoreapp2.2\Nodes.dll
+C:\Users\Lindsey\Desktop\S3\Estr\Nodes\obj\Debug\netcoreapp2.2\Nodes.pdb
