@@ -1,0 +1,11 @@
+C:\Users\Lindsey\Desktop\S3\Estr\Btree\bin\Debug\netcoreapp2.2\Btree.deps.json
+C:\Users\Lindsey\Desktop\S3\Estr\Btree\bin\Debug\netcoreapp2.2\Btree.runtimeconfig.json
+C:\Users\Lindsey\Desktop\S3\Estr\Btree\bin\Debug\netcoreapp2.2\Btree.runtimeconfig.dev.json
+C:\Users\Lindsey\Desktop\S3\Estr\Btree\bin\Debug\netcoreapp2.2\Btree.dll
+C:\Users\Lindsey\Desktop\S3\Estr\Btree\bin\Debug\netcoreapp2.2\Btree.pdb
+C:\Users\Lindsey\Desktop\S3\Estr\Btree\obj\Debug\netcoreapp2.2\Btree.csprojAssemblyReference.cache
+C:\Users\Lindsey\Desktop\S3\Estr\Btree\obj\Debug\netcoreapp2.2\Btree.csproj.CoreCompileInputs.cache
+C:\Users\Lindsey\Desktop\S3\Estr\Btree\obj\Debug\netcoreapp2.2\Btree.AssemblyInfoInputs.cache
+C:\Users\Lindsey\Desktop\S3\Estr\Btree\obj\Debug\netcoreapp2.2\Btree.AssemblyInfo.cs
+C:\Users\Lindsey\Desktop\S3\Estr\Btree\obj\Debug\netcoreapp2.2\Btree.dll
+C:\Users\Lindsey\Desktop\S3\Estr\Btree\obj\Debug\netcoreapp2.2\Btree.pdb
